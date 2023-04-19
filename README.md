@@ -2,7 +2,7 @@
 <ul>
   <li>Acadêmico em Bacharelado em Sistemas de Informação 🎓</li>
   <li>Aprofundando meus conhecimentos em Java ♨️</li>
-  <li>Moro em Cedro|CE - Brazil ☀️</li>
+  <li>Cedro|CE - Brasil ☀️</li>
 </ul>
 
 <div align="center">
