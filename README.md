@@ -1,8 +1,7 @@
 <h3 align="left">Olá! Me chamo Carlos Eduardo.</h3>
 <ul>
   <li>Acadêmico em Bacharelado em Sistemas de Informação 🎓</li>
-  <li>Aprofundando meus conhecimentos em Java ♨️</li>
-  <li>Cedro|CE - Brasil ☀️</li>
+  <li>Desenvolvedor Back-End Java</li>
 </ul>
 
 <div align="center">
