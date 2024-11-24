@@ -5,14 +5,14 @@
 Olá, me chamo Carlos Eduardo, tenho 22 anos e sou natural do Ceará. Atualmente, estou cursando Sistemas de Informação no IFCE. Sou apaixonado por tecnologia e hardware e compartilho o meu conhecimento atráves deste perfil.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/deiz0n?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/deiz0n?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/deiz0n?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
