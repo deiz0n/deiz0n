@@ -124,6 +124,6 @@ Olá, me chamo Carlos Eduardo, tenho 22 anos e sou natural do Ceará. Atualmente
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiz0n&exlude_repo=visao-computacional&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiz0n&exclude_repo=visao-computacional&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
