@@ -1,8 +1,22 @@
 # 👨🏻‍💻 Carlos Eduardo Silva
 
-**`Desenvolvedor WEB`**
+**`Desenvolvedor Full-Stack`**
 
-Olá, me chamo Carlos Eduardo, tenho 22 anos e sou natural do Ceará. Atualmente, estou cursando Sistemas de Informação no IFCE. Sou apaixonado por tecnologia e hardware e compartilho o meu conhecimento atráves deste perfil.
+Logo no meu primeiro grande projeto, desenvolvi uma aplicação web para diagnóstico médico com imagens 3D e interface completa, da arquitetura ao funcionamento em produção. O resultado? Um sistema funcional, testado com usuários reais e criado 100% do zero, que me mostrou onde a tecnologia realmente impacta.
+
+Estou iniciando a minha jornada em desenvolvimento de software com foco em aplicações web. Tenho experiência no backend com Python, Django e PostgreSQL, e no frontend com HMTX, HTML, CSS e JavaScript. Também trabalho com versionamento em Git, containers com Docker e organização com Scrum e Kanban.
+
+Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho ou em equipe. Gosto de compartilhar ideias, ouvir sugestões e construir junto.
+
+Meu objetivo é seguir desenvolvendo sistemas úteis, acessíveis e com impacto real. 
+
+
+
+Meus contatos: <br>
+📧 doardo.ns@gmail.com <br>
+📱 (88) 99356-0250
+
+
 
 <p align="left">
     <a href="https://github.com/deiz0n?tab=repositories&sort=stargazers">
@@ -27,6 +41,22 @@ Olá, me chamo Carlos Eduardo, tenho 22 anos e sou natural do Ceará. Atualmente
 
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -48,6 +78,14 @@ Olá, me chamo Carlos Eduardo, tenho 22 anos e sou natural do Ceará. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" 
 />
 <img 
     align="left" 
