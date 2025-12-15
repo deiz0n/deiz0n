@@ -1,167 +1,59 @@
-# 👨🏻‍💻 Carlos Eduardo Silva
+# Carlos Eduardo Silva
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Back-End`**
 
-Logo no meu primeiro grande projeto, desenvolvi uma aplicação web para diagnóstico médico com imagens 3D e interface completa, da arquitetura ao funcionamento em produção. O resultado? Um sistema funcional, testado com usuários reais e criado 100% do zero, que me mostrou onde a tecnologia realmente impacta.
+<p >
+Logo no meu primeiro grande projeto, desenvolvi uma aplicação web para diagnóstico médico com imagens 2D através de ressonância magnética. Fui responsável por todo o desenvolvimento, da prototipagem à produção, entregando uma    ferramenta de auxílio para diagnóstico de lesões no tornozelo. 
 
-Estou iniciando a minha jornada em desenvolvimento de software com foco em aplicações web. Tenho experiência no backend com Python, Django e PostgreSQL, e no frontend com HMTX, HTML, CSS e JavaScript. Também trabalho com versionamento em Git, containers com Docker e organização com Scrum e Kanban.
+Minha experiência principal é no backend, com TypeScript, Node.js, Java, Spring Boot, PostgreSQL e AWS. No frontend, trabalho com HTMX, HTML, CSS e JavaScript. Além da minha experiência com CI/CD, Git, Docker, Scrim e Kanban.Como destaque, em um projeto pessoal recente (StudFit) foquei em otimização de backend e consegui reduzir a latência de uma requisição HTTP em mais de 80%, através da otimização de queries JPQL e implementando o Redis.
 
-Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho ou em equipe. Gosto de compartilhar ideias, ouvir sugestões e construir junto.
-
-Meu objetivo é seguir desenvolvendo sistemas úteis, acessíveis e com impacto real. 
-
-
-
-Meus contatos: <br>
-📧 doardo.ns@gmail.com <br>
-📱 (88) 99356-0250
-
-
-
-<p align="left">
-    <a href="https://github.com/deiz0n?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/deiz0n?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/deiz0n?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/deiz0n?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho ou em equipe. Gosto de compartilhar ideias, ouvir sugestões e construir junto.Meu objetivo é seguir desenvolvendo sistemas úteis, acessíveis e com impacto real.
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<table>
+  <thead>
+    <tr align="center">
+      <th>💻 Languages</th>
+      <th>🗄️ Databases</th>
+    </tr>
+  </thead>
+  
+  <tbody align="center">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Java, Spring, JavaScript, TypeScript"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb" alt="MySQL, PostgreSQL, Redis, DynamoDB"/></td>
+    </tr>
+  </tbody>
+  
+  <thead>
+    <tr align="center">
+      <th>⚙️ Frameworks & Tools</th>
+      <th>🏅Certifications</th>
+    </tr>
+  </thead>
+  
+   <tbody align="center">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,aws,docker,githubactions" alt="Spring, NodeJS, Express, Nest, Docker, GitHub Actions"/></td>
+      <td><img src="https://firebrand.training/media/mt5hiqbn/aws-certified-cloud-practitioner-clf-c02-firebrand.png?width=80&height=80&v=1dba566a051e350" alt/></td>
+    </tr>
+  </tbody>
+</table>
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Hibernate" 
-    title="Hibernate"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+<br>
 
-<br/>
-<br/>
+<div>
+  <a href="https://docs.google.com/document/d/1vHSPrK4GMEjmQ-9ZhUN7RWRtyltqfRbd_V91aKIHE88/edit?usp=sharing" alt="Currículo">
+  <img src="https://img.shields.io/badge/-curriculo-000000?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
+  
+  <a href="mailto:doardo.ns@gmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/email-DE3163?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/carlos-eduardo-ns/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deiz0n&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiz0n&exclude_repo=visao-computacional&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+  <a href="https://www.credly.com/users/carlos-eduardo-do-nascimento-silva/badges#credly" target="_blank" alt="Credly">
+  <img src="https://img.shields.io/badge/-credly-008000?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>
+</div>
