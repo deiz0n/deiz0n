@@ -12,7 +12,7 @@ Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho 
 
 ---
 
-<table>
+<table align="center">
   <thead>
     <tr align="center">
       <th>💻 Languages</th>
@@ -44,7 +44,7 @@ Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho 
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://docs.google.com/document/d/1vHSPrK4GMEjmQ-9ZhUN7RWRtyltqfRbd_V91aKIHE88/edit?usp=sharing" alt="Currículo">
   <img src="https://img.shields.io/badge/-curriculo-000000?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
   
