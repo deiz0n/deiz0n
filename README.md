@@ -1,13 +1,17 @@
 # Carlos Eduardo Silva
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
 <p >
-Logo no meu primeiro grande projeto, desenvolvi uma aplicação web para diagnóstico médico com imagens 2D através de ressonância magnética. Fui responsável por todo o desenvolvimento, da prototipagem à produção, entregando uma    ferramenta de auxílio para diagnóstico de lesões no tornozelo. 
+Sou um Desenvolvedor Full-Stack Júnior, com ênfase no back-end, focado na construção de sistemas escaláveis, performáticos e com impacto real no negócio. Tenho experiência prática em todo o ciclo de vida do software, atuando desde a concepção e prototipagem até o deploy final em produção.
 
-Minha experiência principal é no backend, com TypeScript, Node.js, Java, Spring Boot, PostgreSQL e AWS. No frontend, trabalho com HTMX, HTML, CSS e JavaScript. Além da minha experiência com CI/CD, Git, Docker, Scrim e Kanban.Como destaque, em um projeto pessoal recente (StudFit) foquei em otimização de backend e consegui reduzir a latência de uma requisição HTTP em mais de 80%, através da otimização de queries JPQL e implementando o Redis.
+Na minha primeira experiência, desenvolvi de ponta a ponta uma aplicação web voltada ao auxílio no diagnóstico médico de lesões no tornozelo via ressonância magnética (2D). Fui responsável por todo o fluxo de desenvolvimento, entregando uma ferramenta funcional que utiliza IA para apoiar decisões clínicas.
 
-Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho ou em equipe. Gosto de compartilhar ideias, ouvir sugestões e construir junto.Meu objetivo é seguir desenvolvendo sistemas úteis, acessíveis e com impacto real.
+Em minha experiência mais recente, realizei a migração de um sistema de disparos de WhatsApp baseado em N8N para um microserviço. Implementei estratégias de throttling, organização de filas por prioridade e agendamentos de disparos. Essa migração resultou em um aumento de 40% na taxa de sucesso de envios e reduziu gargalos de sobrecarga na gateway interna.
+
+Além disso, em projetos pessoais como o StudFit, foquei na otimização de performance em nível de banco de dados e aplicação. Através da refatoração de queries JPQL e da implementação de camadas de cache com Redis, consegui reduzir a latência de requisições em mais de 80%. Nesse mesmo projeto, desenvolvi uma esteira de integração contínua para deploy na AWS (EC2).
+
+Sou movido pela curiosidade técnica e pela resolução de problemas, sentindo-me confortável tanto em atuar de forma autônoma quanto em colaboração com times ágeis. Meu objetivo principal é seguir desenvolvendo sistemas úteis, acessíveis e que gerem valor real para o usuário final.
 </p>
 
 ---
@@ -22,7 +26,7 @@ Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho 
   
   <tbody align="center">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="Java, Spring, JavaScript, TypeScript"/></td>
+      <td><img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, Spring, JavaScript, TypeScript"/></td>
       <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb" alt="MySQL, PostgreSQL, Redis, DynamoDB"/></td>
     </tr>
   </tbody>
@@ -36,7 +40,7 @@ Sou curioso, me adapto fácil e tenho facilidade em resolver problemas, sozinho 
   
    <tbody align="center">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,aws,docker,githubactions" alt="Spring, NodeJS, Express, Nest, Docker, GitHub Actions"/></td>
+      <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,react,aws,docker,k8s,githubactions" alt="Spring, NodeJS, Express, Nest, Docker, GitHub Actions"/></td>
       <td><img src="https://firebrand.training/media/mt5hiqbn/aws-certified-cloud-practitioner-clf-c02-firebrand.png?width=80&height=80&v=1dba566a051e350" alt/></td>
     </tr>
   </tbody>
