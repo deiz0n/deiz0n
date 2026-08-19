@@ -40,7 +40,7 @@ Sou movido pela curiosidade técnica e pela resolução de problemas, sentindo-m
   
    <tbody align="center">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,react,aws,docker,k8s,githubactions" alt="Spring, NodeJS, Express, Nest, Docker, GitHub Actions"/></td>
+      <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,react,aws,docker,githubactions" alt="Spring, NodeJS, Express, Nest, Docker, GitHub Actions"/></td>
       <td><img src="https://firebrand.training/media/mt5hiqbn/aws-certified-cloud-practitioner-clf-c02-firebrand.png?width=80&height=80&v=1dba566a051e350" alt/></td>
     </tr>
   </tbody>
